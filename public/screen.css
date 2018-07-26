@@ -7,3 +7,48 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+.top-nav {
+  display: flex;
+  background-color: #f3f3f3;
+  padding: 15px 20px;
+  flex-wrap: wrap;
+}
+
+.top-nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style: none;
+  margin: 1em 0 1em 0;
+  padding: 1em;
+}
+
+.top-nav a {
+  font: 13px helvetica,arial,freesans,clean,sans-serif;
+  Color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.preview-image {
+  display: block;
+}
+.nav-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 1em;
+}
+.images-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 1em;
+  border: solid #cacaca;
+}
+
+.image {
+  margin: 1em;
+  border: solid #cacaca;
+}

@@ -6,16 +6,18 @@ Unfortunately, the Octodex is not responsive*! Today, your task is to recreate t
 * Well, actually it uses javascript set the number of columns on page load, but we want to see interactive responsiveness when we resize our window!
 
 Objectives
-Build on your knowledge of HTML & CSS
-Implement a responsive design with media queries
-Implement, from scratch, a given design
-Understand HTML/CSS Layout
-Be able to place elements on a page where you want them.
-Use flexbox techniques layout pages.
+- - - - - -
+* Build on your knowledge of HTML & CSS
+* Implement a responsive design with media queries
+* Implement, from scratch, a given design
+* Understand HTML/CSS Layout
+* Be able to place elements on a page where you want them.
+* Use flexbox techniques layout pages.
 Requirements
-You should strive to implement the design as close as possible, though, especially if you've never touch HTML or CSS before, this can be extraordinarily difficult, and will take a lot of practice and mileage.
+- - - - - - 
+* You should strive to implement the design as close as possible, though, especially if you've never touch HTML or CSS before, this can be extraordinarily difficult, and will take a lot of practice and mileage.
 
-Note: You should complete at least the tasks given for explorer mode as listed below before turning in the assignment, as well as before attempting adventure or epic modes.
+* Note: You should complete at least the tasks given for explorer mode as listed below before turning in the assignment, as well as before attempting adventure or epic modes.
 
 Explorer Mode
 - [X] Recreate the page as closely as you possibly can. Use the same fonts, sizes, and colors. Download some of your favorite
